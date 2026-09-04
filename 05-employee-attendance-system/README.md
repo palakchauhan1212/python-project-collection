@@ -25,16 +25,6 @@ Concepts Used
 - Date and Time ("datetime")
 - File and Directory Management ("os" module)
 
-Project Structure
-
-Employee-Attendance-Management-System/
-│
-├── employee_attendance_system.py
-├── employee_data.json
-├── attendance_data.json
-├── logs.txt
-└── README.md
-
 Requirements
 
 - Python 3.x

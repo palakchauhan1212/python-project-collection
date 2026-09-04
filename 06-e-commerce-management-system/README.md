@@ -24,14 +24,6 @@ Concepts Used
 - Lambda Functions
 - File and Directory Management ("os" module)
 
-Project Structure
-
-Inventory-Management-System/
-│
-├── inventory_management_system.py
-├── product_data.json
-└── README.md
-
 Requirements
 
 - Python 3.x

@@ -74,18 +74,6 @@ Concepts Used
 - Date and Time Handling
 - NumPy-based Data Analysis
 
-Project Structure
-
-Quiz-Management-System/
-│
-├── quiz.py
-├── quiz.json
-├── attempt.json
-├── logs.txt
-├── README.md
-├── requirements.txt
-└── .gitignore
-
 Application Architecture
 
 The application is divided into three major components:
@@ -339,33 +327,9 @@ Run the Python program using:
 
 python quiz.py
 
+«Replace "employee_attendance_system.py" with your actual Python filename if it has a different name.»
+
 The application will start in the terminal and display the home menu.
-
-Example Workflow
-
-Start
-  |
-  v
-Home Menu
-  |
-  +---- Admin
-  |       |
-  |       +---- Add Question
-  |       +---- Delete Question
-  |       +---- View Question
-  |
-  +---- Student
-  |       |
-  |       +---- Take Quiz
-  |       +---- View Score
-  |
-  +---- Analysis
-  |       |
-  |       +---- Highest Score
-  |       +---- Lowest Score
-  |       +---- Average Score
-  |
-  +---- Exit
 
 Objectives
 

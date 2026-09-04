@@ -38,17 +38,6 @@ Install Pandas using:
 
 pip install pandas
 
-Project Structure
-
-Library-Management-System/
-│
-├── library_management_system.py
-├── book.csv
-├── member.csv
-├── borrow.csv
-├── logs.txt
-└── README.md
-
 How to Run
 
 1. Download or clone this repository.

@@ -153,6 +153,8 @@ Run the Python file using:
 
 python expense_tracker_&_budget_analyzer.py
 
+«Replace "employee_attendance_system.py" with your actual Python filename if it has a different name.»
+
 The application will start in the terminal and display the main menu.
 
 Data Analysis

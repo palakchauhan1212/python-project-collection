@@ -44,16 +44,6 @@ Concepts Used
 - Data Analysis with NumPy and Pandas
 - Data Visualization with Matplotlib
 
-Project Structure
-
-Expense-Tracker/
-│
-├── expense_tracker.py
-├── expenses.csv
-├── README.md
-├── requirements.txt
-└── .gitignore
-
 Data Storage
 
 Expense records are stored in a CSV file named "expenses.csv".

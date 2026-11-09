@@ -95,6 +95,7 @@ Through these projects, I aim to:
 # Author
 
 **Palak Chauhan**
+
 Aspiring Software Developer | AIML Student
 
 This repository is a work in progress and will continue to evolve as I learn new concepts and develop more projects.
